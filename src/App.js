@@ -1,12 +1,12 @@
-import Counter from "./features/counter/Counter";
-const App = () => {
+import PostsList from "./features/posts/PostsList";
+import AddPostForm from "./features/posts/AddPostForm";
+
+function App() {
   return (
-    <div>
-      <header>
-        REDUX TOOLKIT COUNTER
-        <Counter />
-      </header>
-    </div>
+    <main className="App">
+      <AddPostForm />
+      <PostsList />
+    </main>
   );
 }
 
