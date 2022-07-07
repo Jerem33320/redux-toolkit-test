@@ -7,3 +7,5 @@
 - Les composants ont une majuscule
   
 - thunks : recommend for async logic in redux
+
+- Le dossier components dans src est le dossier pour le rendu de plus grands composants/pages.
