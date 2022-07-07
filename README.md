@@ -6,3 +6,4 @@
   
 - Les composants ont une majuscule
   
+- thunks : recommend for async logic in redux
