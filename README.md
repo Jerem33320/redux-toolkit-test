@@ -34,3 +34,6 @@ Redux Toolkit nous met à dispo 'createEntityAdapter API'
 . ABSTRACTS MORE LOGIC FROM COMPONENTS
 . BUILT-IN CRUD METHODS
 . AUTO SELECTOR GENERATION
+
+- PARTIE 6: RTK Query
+  normalize state and optimistic update
